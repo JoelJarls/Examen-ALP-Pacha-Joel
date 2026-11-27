@@ -10,7 +10,7 @@
 Sistema desarrollado en Java bajo paradigma orientado a objetos y ejecución por consola para la Universidad Técnica de Ambato, orientado a registrar, consultar, procesar y persistir en archivos de texto las calificaciones de los estudiantes de una asignatura, generando indicadores estadísticos del rendimiento del curso.
 
 ## Instrucciones de Compilación y Ejecución
-Desde la raíz del proyecto (`Examen-ALP-Paccha-Joel/`), abrir una terminal y ejecutar:
+Desde la raíz del proyecto (`Examen-ALP-Pacha-Joel/`), abrir una terminal y ejecutar:
 
 ```bash
 # 1. Compilar los archivos fuente
