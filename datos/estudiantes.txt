@@ -1,0 +1,3 @@
+E002; Arteaga Jose; 15;12;20
+E001; Carlos Vela; 14;14;14
+4; Jose Pelmazo; 12;12;12
